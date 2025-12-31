@@ -1,0 +1,71 @@
+# CMake
+build*
+cmake-build-*
+!build*.sh
+
+# Xcode
+*.xcworkspace
+*.xcodeproj
+
+# Visual Studio
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+.vs
+
+# Makefile
+Makefile
+*.make
+
+# Language Server
+.ccls
+.ccls-cache
+compile_commands.json
+
+# Visual Studio Code
+.vscode
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# JetBrains
+.idea
+.fleet
+.cache
+
+# For PCBs designed using KiCad: https://www.kicad.org/
+# Format documentation: https://kicad.org/help/file-formats/
+
+# Temporary files
+*.000
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*-backups
+*.kicad_prl
+*.sch-bak
+*~
+*auto_saved_files*
+*.tmp
+*-save.pro
+*-save.kicad_pcb
+*.kicad_sch.lck
+fp-info-cache
+_autosave-power.kicad_sch
+*.kicad_pcb.lck
+
+# Netlist files (exported from Eeschema)
+*.net
+
+# Autorouter files (exported from Pcbnew)
+*.dsn
+*.ses
+
+# Exported BOM files
+*.xml
+*.csv
+
