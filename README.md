@@ -8,12 +8,20 @@ List of electronics component that I find cool.
 
 ## Battery
 
+### 21700 (Li-NMC)
+
   - [INR21700-RS50][inr21700]
   - [N21700-45D][n21700]
   - [INR21700-40PL][inr21700pl]
 
   The Reliance RS50 is the most recommended right now in the 21700
-  size. See also this [video about Li-Ion batteries][lion-video].
+  size.
+
+### 18650 (Li-NMC)
+
+  - [US18650VTC5D][us18650]
+
+See also this [video about Li-Ion batteries][lion-video].
 
 ## ADC
 
@@ -64,6 +72,7 @@ List of electronics component that I find cool.
 [inpis63]: https://www.digikey.se/sv/products/detail/inolux/IN-PIS63BTPG/24394280
 [lion-video]: https://youtu.be/Mse9Of4fHyM?si=DRZlPrb-EwJnhiWD
 [inr21700]: https://www.nkon.nl/reliance-inr21700-rs50-4950mah-70a.html
+[us18650]: https://www.nkon.nl/sony-murata-us18650vtc5d-2800mah-25a.html
 [inr21700pl]: https://www.nkon.nl/eve-inr21700-40pl-4000mah-70a.html
 [n21700]: https://www.nkon.nl/bak-n21700-45d-4400mah-60a.html
 [xl1010]: https://www.digikey.se/sv/products/detail/xinglight/XL-1010RGBC-WS2812B/25672944
